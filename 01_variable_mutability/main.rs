@@ -1,0 +1,3 @@
+
+
+let season: &str = 'Summer';
