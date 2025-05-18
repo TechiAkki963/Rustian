@@ -1,5 +1,5 @@
 fn main() {
-    print!("My Name is Akshay ");
-    print!("I am a absolute beginner in Rust ");
-    print!("and want to explore more");
+    println!("My Name is Akshay ");
+    println!("I am a absolute beginner in Rust ");
+    println!("and want to explore more");
 }
